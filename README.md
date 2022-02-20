@@ -12,3 +12,5 @@ SentenceCount := "10"	; Must be string with number from 1-10
 
 ;----- Variables STOP  -----
 ```
+
+https://user-images.githubusercontent.com/32145552/154824562-56cbf4c4-1605-4e9d-81f5-635735328799.mp4
