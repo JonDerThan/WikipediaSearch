@@ -34,6 +34,7 @@ Decode(String) {
 		NumPut("0x" hex, var,, "UChar")
 		chr := StrGet(&var)
 		String := StrReplace(String, "\u" hex, chr)
+		p--
 	}
 	String := StrReplace(String, "\n", "`n")
 	
